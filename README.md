@@ -8,3 +8,4 @@
 * [Globeexplorer](https://explorer.globe.engineer/) --visually structured search
 * [Synthesia](https://www.synthesia.io/) --text to video
 * [Veed](https://www.veed.io/tools/eye-tracking-software) --keep eyes focued on screen
+* [Powerfulai](https://www.powerfulai.tools/) --List of 4500+ ai tools
